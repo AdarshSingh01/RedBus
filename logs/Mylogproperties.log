@@ -1,0 +1,248 @@
+[INFO ] 2021-02-11 17:06:26.951 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:06:28.469 [main] Log4jFile1 - Source point and destination point entered.
+[INFO ] 2021-02-11 17:06:29.828 [main] Log4jFile1 - Month, year and day entered.
+[INFO ] 2021-02-11 17:06:29.948 [main] Log4jFile1 - Clicked on search.
+[INFO ] 2021-02-11 17:06:31.827 [main] Log4jFile1 - Clicked on sort by.
+[INFO ] 2021-02-11 17:06:31.848 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:06:31.848 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:06:36.477 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:06:36.613 [main] Log4jFile1 - Click on manage booking.
+[INFO ] 2021-02-11 17:06:37.684 [main] Log4jFile1 - Ticket no and email id entered.
+[INFO ] 2021-02-11 17:06:38.216 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:06:38.217 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:06:41.906 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:06:43.787 [main] Log4jFile1 - Click on bus hire.
+[INFO ] 2021-02-11 17:06:43.890 [main] Log4jFile1 - Click on knowmore.
+[INFO ] 2021-02-11 17:06:46.199 [main] Log4jFile1 - Click on delhi.
+[INFO ] 2021-02-11 17:06:46.231 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:06:46.231 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:06:50.862 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:06:51.083 [main] Log4jFile1 - Clicked on manage booking.
+[INFO ] 2021-02-11 17:06:51.516 [main] Log4jFile1 - email entered.
+[INFO ] 2021-02-11 17:06:53.113 [main] Log4jFile1 - Ticket No, Email entered and click on submit.
+[INFO ] 2021-02-11 17:06:53.145 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:06:53.145 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:06:57.718 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:06:57.976 [main] Log4jFile1 - Clicked on signin.
+[INFO ] 2021-02-11 17:06:58.061 [main] Log4jFile1 - Clicked on facebook.
+[INFO ] 2021-02-11 17:07:06.550 [main] Log4jFile1 - Email and password entered.
+[INFO ] 2021-02-11 17:07:06.655 [main] Log4jFile1 - Close the child window.
+[INFO ] 2021-02-11 17:07:06.662 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:07:06.662 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:07:09.648 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:07:11.887 [main] Log4jFile1 - Clicked on bus ticket.
+[INFO ] 2021-02-11 17:07:12.110 [main] Log4jFile1 - Clicked on bus pre register.
+[INFO ] 2021-02-11 17:07:15.164 [main] Log4jFile1 - clicked on Source point.
+[INFO ] 2021-02-11 17:07:15.307 [main] Log4jFile1 - Source point entered.
+[INFO ] 2021-02-11 17:07:20.020 [main] Log4jFile1 - click on point.
+[INFO ] 2021-02-11 17:07:20.117 [main] Log4jFile1 - click on destination point.
+[INFO ] 2021-02-11 17:07:20.160 [main] Log4jFile1 - Destination point entered.
+[INFO ] 2021-02-11 17:07:23.896 [main] Log4jFile1 - click on destination point.
+[INFO ] 2021-02-11 17:07:23.896 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:07:23.969 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:07:24.074 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:07:24.119 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:07:24.164 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:07:24.199 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:07:24.199 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:07:27.253 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:07:28.658 [main] Log4jFile1 - Clicked on bus hire.
+[INFO ] 2021-02-11 17:07:28.758 [main] Log4jFile1 - Clicked on booking.
+[INFO ] 2021-02-11 17:07:28.845 [main] Log4jFile1 - Clicked on offfer.
+[INFO ] 2021-02-11 17:07:29.467 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:07:29.467 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:07:34.135 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:07:35.391 [main] Log4jFile1 - Source point and destination point entered.
+[INFO ] 2021-02-11 17:07:35.443 [main] Log4jFile1 - clicked on date.
+[INFO ] 2021-02-11 17:07:36.805 [main] Log4jFile1 - month, year and date entered.
+[INFO ] 2021-02-11 17:07:36.911 [main] Log4jFile1 - Clicked on search.
+[INFO ] 2021-02-11 17:07:41.362 [main] Log4jFile1 - New Source point and destination point entered.
+[INFO ] 2021-02-11 17:07:41.498 [main] Log4jFile1 - Clicked on search.
+[INFO ] 2021-02-11 17:07:42.722 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:07:42.722 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:07:45.656 [main] Log4jFile1 - Test Execution started
+[INFO ] 2021-02-11 17:07:47.486 [main] Log4jFile1 - Click on bushire
+[INFO ] 2021-02-11 17:07:47.583 [main] Log4jFile1 - Click on Manage booking
+[INFO ] 2021-02-11 17:07:48.958 [main] Log4jFile1 - BookingId entered. 
+[INFO ] 2021-02-11 17:07:49.056 [main] Log4jFile1 - PhoneNo entered.
+[INFO ] 2021-02-11 17:07:49.107 [main] Log4jFile1 - Click on verify.
+[INFO ] 2021-02-11 17:07:49.275 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:07:49.275 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:07:57.594 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:07:57.799 [main] Log4jFile1 - Click on manage booking.
+[INFO ] 2021-02-11 17:07:58.327 [main] Log4jFile1 - Clicked on show ticket.
+[INFO ] 2021-02-11 17:07:59.501 [main] Log4jFile1 - Ticket no and email entered.
+[INFO ] 2021-02-11 17:07:59.548 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:07:59.548 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:08:02.578 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:08:03.146 [main] Log4jFile1 - Clicked on knowmore.
+[INFO ] 2021-02-11 17:08:05.260 [main] Log4jFile1 - Ticket no entered.
+[INFO ] 2021-02-11 17:08:07.406 [main] Log4jFile1 - Email entered.
+[INFO ] 2021-02-11 17:08:11.870 [main] Log4jFile1 - Clicked on search.
+[INFO ] 2021-02-11 17:08:11.881 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:08:11.881 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:08:16.483 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:08:16.662 [main] Log4jFile1 - Clicked on manage booking.
+[INFO ] 2021-02-11 17:08:17.647 [main] Log4jFile1 - Ticket No and Email entered.
+[INFO ] 2021-02-11 17:08:18.190 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:08:18.191 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:08:21.214 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:08:22.605 [main] Log4jFile1 - clicked on rpool
+[INFO ] 2021-02-11 17:08:22.697 [main] Log4jFile1 - Clicked on active.
+[INFO ] 2021-02-11 17:08:22.765 [main] Log4jFile1 - Clicked on offer ride.
+[INFO ] 2021-02-11 17:08:22.810 [main] Log4jFile1 - Clicked on choose offer ride.
+[INFO ] 2021-02-11 17:08:22.853 [main] Log4jFile1 - Clicked on get point.
+[INFO ] 2021-02-11 17:08:22.893 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:08:22.894 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:08:27.432 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:08:27.650 [main] Log4jFile1 - PhoneNo entered.
+[INFO ] 2021-02-11 17:08:29.793 [main] Log4jFile1 - clicked on send me link.
+[INFO ] 2021-02-11 17:08:33.853 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:08:33.853 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:08:38.397 [main] Log4jFile1 - TestStarted
+[INFO ] 2021-02-11 17:08:38.437 [main] Log4jFile1 - Test Execution started
+[INFO ] 2021-02-11 17:08:39.079 [main] Log4jFile1 - Source Point Entered
+[INFO ] 2021-02-11 17:08:39.256 [main] Log4jFile1 - Destination Point Entered
+[INFO ] 2021-02-11 17:08:39.844 [main] Log4jFile1 - Click on date
+[INFO ] 2021-02-11 17:08:40.608 [main] Log4jFile1 - Entered Date
+[INFO ] 2021-02-11 17:08:40.729 [main] Log4jFile1 - Clicked on search
+[INFO ] 2021-02-11 17:08:41.792 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:08:41.792 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:08:47.741 [main] Log4jFile1 - Bus Hire link was clicked
+[INFO ] 2021-02-11 17:08:49.125 [main] Log4jFile1 - Airport Menu was selected
+[INFO ] 2021-02-11 17:08:49.160 [main] Log4jFile1 - Actual Result : 
+[INFO ] 2021-02-11 17:08:56.658 [main] Log4jFile1 - Bus Hire link was clicked
+[INFO ] 2021-02-11 17:08:59.872 [main] Log4jFile1 - Local Menu was selected
+[INFO ] 2021-02-11 17:08:59.920 [main] Log4jFile1 - Actual Result : local
+[INFO ] 2021-02-11 17:09:06.115 [main] Log4jFile1 - Bus Hire link was clicked
+[INFO ] 2021-02-11 17:09:12.485 [main] Log4jFile1 - OutStation Menu was selected
+[INFO ] 2021-02-11 17:09:39.358 [main] Log4jFile1 - Bus Hire link was clicked
+[INFO ] 2021-02-11 17:09:45.739 [main] Log4jFile1 - OutStation Menu was selected
+[INFO ] 2021-02-11 17:09:48.122 [main] Log4jFile1 - Bangalore Railway Station Back Gate, M.G. Railway Colony, Majestic, Bengaluru, Karnataka location was entered
+[INFO ] 2021-02-11 17:09:49.439 [main] Log4jFile1 - Delhi railway station, Mori Gate, Delhi, India location was entered
+[INFO ] 2021-02-11 17:10:16.823 [main] Log4jFile1 - Test Execution started
+[INFO ] 2021-02-11 17:10:20.307 [main] Log4jFile1 - Clicked on awards
+[INFO ] 2021-02-11 17:10:20.307 [main] Log4jFile1 - Verify the expected result.
+[INFO ] 2021-02-11 17:10:20.355 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:10:20.355 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:10:24.740 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:10:26.261 [main] Log4jFile1 - Source point and destination point entered.
+[INFO ] 2021-02-11 17:10:27.690 [main] Log4jFile1 - Month, year and day entered.
+[INFO ] 2021-02-11 17:10:29.934 [main] Log4jFile1 - Clicked on search.
+[INFO ] 2021-02-11 17:10:30.289 [main] Log4jFile1 - Clicked on sort by.
+[INFO ] 2021-02-11 17:10:30.296 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:10:30.296 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:10:34.844 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:10:35.112 [main] Log4jFile1 - Click on manage booking.
+[INFO ] 2021-02-11 17:10:35.750 [main] Log4jFile1 - Ticket no and email id entered.
+[INFO ] 2021-02-11 17:10:36.347 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:10:36.347 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:10:40.785 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:10:42.335 [main] Log4jFile1 - Click on bus hire.
+[INFO ] 2021-02-11 17:10:42.679 [main] Log4jFile1 - Click on knowmore.
+[INFO ] 2021-02-11 17:10:43.586 [main] Log4jFile1 - Click on delhi.
+[INFO ] 2021-02-11 17:10:43.623 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:10:43.624 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:10:48.022 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:10:48.285 [main] Log4jFile1 - Clicked on manage booking.
+[INFO ] 2021-02-11 17:10:48.711 [main] Log4jFile1 - email entered.
+[INFO ] 2021-02-11 17:10:50.400 [main] Log4jFile1 - Ticket No, Email entered and click on submit.
+[INFO ] 2021-02-11 17:10:50.450 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:10:50.450 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:10:55.034 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:10:55.304 [main] Log4jFile1 - Clicked on signin.
+[INFO ] 2021-02-11 17:10:55.633 [main] Log4jFile1 - Clicked on facebook.
+[INFO ] 2021-02-11 17:11:00.463 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:11:02.364 [main] Log4jFile1 - Clicked on bus ticket.
+[INFO ] 2021-02-11 17:11:02.688 [main] Log4jFile1 - Clicked on bus pre register.
+[INFO ] 2021-02-11 17:11:03.487 [main] Log4jFile1 - clicked on Source point.
+[INFO ] 2021-02-11 17:11:03.521 [main] Log4jFile1 - Source point entered.
+[INFO ] 2021-02-11 17:11:06.040 [main] Log4jFile1 - click on point.
+[INFO ] 2021-02-11 17:11:06.281 [main] Log4jFile1 - click on destination point.
+[INFO ] 2021-02-11 17:11:06.321 [main] Log4jFile1 - Destination point entered.
+[INFO ] 2021-02-11 17:11:07.741 [main] Log4jFile1 - click on destination point.
+[INFO ] 2021-02-11 17:11:07.741 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:11:07.772 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:11:07.790 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:11:08.011 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:11:08.231 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:11:08.252 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:11:08.252 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:11:12.669 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:11:14.165 [main] Log4jFile1 - Clicked on bus hire.
+[INFO ] 2021-02-11 17:11:14.439 [main] Log4jFile1 - Clicked on booking.
+[INFO ] 2021-02-11 17:11:14.686 [main] Log4jFile1 - Clicked on offfer.
+[INFO ] 2021-02-11 17:11:19.298 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:11:20.576 [main] Log4jFile1 - Source point and destination point entered.
+[INFO ] 2021-02-11 17:11:20.798 [main] Log4jFile1 - clicked on date.
+[INFO ] 2021-02-11 17:11:22.168 [main] Log4jFile1 - month, year and date entered.
+[INFO ] 2021-02-11 17:11:24.478 [main] Log4jFile1 - Clicked on search.
+[INFO ] 2021-02-11 17:11:27.503 [main] Log4jFile1 - New Source point and destination point entered.
+[INFO ] 2021-02-11 17:11:30.283 [main] Log4jFile1 - Clicked on search.
+[INFO ] 2021-02-11 17:11:31.289 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:11:31.289 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:11:35.322 [main] Log4jFile1 - Test Execution started
+[INFO ] 2021-02-11 17:11:36.860 [main] Log4jFile1 - Click on bushire
+[INFO ] 2021-02-11 17:11:37.205 [main] Log4jFile1 - Click on Manage booking
+[INFO ] 2021-02-11 17:11:38.632 [main] Log4jFile1 - BookingId entered. 
+[INFO ] 2021-02-11 17:11:38.695 [main] Log4jFile1 - PhoneNo entered.
+[INFO ] 2021-02-11 17:11:38.931 [main] Log4jFile1 - Click on verify.
+[INFO ] 2021-02-11 17:11:38.982 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:11:38.983 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:11:48.416 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:11:48.662 [main] Log4jFile1 - Click on manage booking.
+[INFO ] 2021-02-11 17:11:49.089 [main] Log4jFile1 - Clicked on show ticket.
+[INFO ] 2021-02-11 17:11:50.819 [main] Log4jFile1 - Ticket no and email entered.
+[INFO ] 2021-02-11 17:11:50.854 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:11:50.854 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:11:55.195 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:11:55.917 [main] Log4jFile1 - Clicked on knowmore.
+[INFO ] 2021-02-11 17:11:58.092 [main] Log4jFile1 - Ticket no entered.
+[INFO ] 2021-02-11 17:12:00.164 [main] Log4jFile1 - Email entered.
+[INFO ] 2021-02-11 17:12:03.074 [main] Log4jFile1 - Clicked on search.
+[INFO ] 2021-02-11 17:12:03.077 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:12:03.077 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:12:07.737 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:12:08.014 [main] Log4jFile1 - Clicked on manage booking.
+[INFO ] 2021-02-11 17:12:08.953 [main] Log4jFile1 - Ticket No and Email entered.
+[INFO ] 2021-02-11 17:12:09.502 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:12:09.502 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:12:13.969 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:12:16.284 [main] Log4jFile1 - clicked on rpool
+[INFO ] 2021-02-11 17:12:16.581 [main] Log4jFile1 - Clicked on active.
+[INFO ] 2021-02-11 17:12:16.819 [main] Log4jFile1 - Clicked on offer ride.
+[INFO ] 2021-02-11 17:12:17.097 [main] Log4jFile1 - Clicked on choose offer ride.
+[INFO ] 2021-02-11 17:12:17.434 [main] Log4jFile1 - Clicked on get point.
+[INFO ] 2021-02-11 17:12:17.497 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:12:17.498 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:12:22.044 [main] Log4jFile1 - Test Execution Started.
+[INFO ] 2021-02-11 17:12:22.101 [main] Log4jFile1 - PhoneNo entered.
+[INFO ] 2021-02-11 17:12:24.460 [main] Log4jFile1 - clicked on send me link.
+[INFO ] 2021-02-11 17:12:28.506 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:12:28.506 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:12:32.980 [main] Log4jFile1 - TestStarted
+[INFO ] 2021-02-11 17:12:33.021 [main] Log4jFile1 - Test Execution started
+[INFO ] 2021-02-11 17:12:33.715 [main] Log4jFile1 - Source Point Entered
+[INFO ] 2021-02-11 17:12:34.149 [main] Log4jFile1 - Destination Point Entered
+[INFO ] 2021-02-11 17:12:34.946 [main] Log4jFile1 - Click on date
+[INFO ] 2021-02-11 17:12:35.855 [main] Log4jFile1 - Entered Date
+[INFO ] 2021-02-11 17:12:38.445 [main] Log4jFile1 - Clicked on search
+[INFO ] 2021-02-11 17:12:38.984 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:12:38.984 [main] Log4jFile1 - Test end.
+[INFO ] 2021-02-11 17:12:45.953 [main] Log4jFile1 - Bus Hire link was clicked
+[INFO ] 2021-02-11 17:12:47.771 [main] Log4jFile1 - Airport Menu was selected
+[INFO ] 2021-02-11 17:12:47.822 [main] Log4jFile1 - Actual Result : 
+[INFO ] 2021-02-11 17:12:54.994 [main] Log4jFile1 - Bus Hire link was clicked
+[INFO ] 2021-02-11 17:12:58.274 [main] Log4jFile1 - Local Menu was selected
+[INFO ] 2021-02-11 17:12:58.319 [main] Log4jFile1 - Actual Result : local
+[INFO ] 2021-02-11 17:13:05.282 [main] Log4jFile1 - Bus Hire link was clicked
+[INFO ] 2021-02-11 17:13:11.608 [main] Log4jFile1 - OutStation Menu was selected
+[INFO ] 2021-02-11 17:13:38.798 [main] Log4jFile1 - Bus Hire link was clicked
+[INFO ] 2021-02-11 17:13:45.299 [main] Log4jFile1 - OutStation Menu was selected
+[INFO ] 2021-02-11 17:13:47.623 [main] Log4jFile1 - Bangalore Railway Station Back Gate, M.G. Railway Colony, Majestic, Bengaluru, Karnataka location was entered
+[INFO ] 2021-02-11 17:13:48.789 [main] Log4jFile1 - Delhi railway station, Mori Gate, Delhi, India location was entered
+[INFO ] 2021-02-11 17:14:15.940 [main] Log4jFile1 - Test Execution started
+[INFO ] 2021-02-11 17:14:18.815 [main] Log4jFile1 - Clicked on awards
+[INFO ] 2021-02-11 17:14:18.816 [main] Log4jFile1 - Verify the expected result.
+[INFO ] 2021-02-11 17:14:18.862 [main] Log4jFile1 - Test Passed.
+[INFO ] 2021-02-11 17:14:18.862 [main] Log4jFile1 - Test end.

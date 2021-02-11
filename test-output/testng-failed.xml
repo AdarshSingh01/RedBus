@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="FirstTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.redbus.tests.BusHirePageTest">
+        <methods>
+          <include name="setExtent"/>
+          <include name="endReport"/>
+          <include name="whenUserEntersClickOnOutstation"/>
+          <include name="whenUserEntersValidInformationForOutstation"/>
+          <include name="driverInitialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.redbus.tests.BusHirePageTest -->
+      <class name="com.redbus.tests.PilgrimagesTest">
+        <methods>
+          <include name="setExtent"/>
+          <include name="endReport"/>
+          <include name="driverInitialize"/>
+          <include name="closeBrowser"/>
+          <include name="Pilgrimages"/>
+        </methods>
+      </class> <!-- com.redbus.tests.PilgrimagesTest -->
+    </classes>
+  </test> <!-- FirstTest(failed) -->
+  <test thread-count="5" name="SecondTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.redbus.tests.BusHirePageTest">
+        <methods>
+          <include name="setExtent"/>
+          <include name="endReport"/>
+          <include name="whenUserEntersClickOnOutstation"/>
+          <include name="whenUserEntersValidInformationForOutstation"/>
+          <include name="driverInitialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.redbus.tests.BusHirePageTest -->
+      <class name="com.redbus.tests.LoginTest">
+        <methods>
+          <include name="setExtent"/>
+          <include name="endReport"/>
+          <include name="driverInitialize"/>
+          <include name="closeBrowser"/>
+          <include name="Valid_login"/>
+        </methods>
+      </class> <!-- com.redbus.tests.LoginTest -->
+      <class name="com.redbus.tests.PilgrimagesTest">
+        <methods>
+          <include name="setExtent"/>
+          <include name="endReport"/>
+          <include name="driverInitialize"/>
+          <include name="closeBrowser"/>
+          <include name="Pilgrimages"/>
+        </methods>
+      </class> <!-- com.redbus.tests.PilgrimagesTest -->
+      <class name="com.redbus.tests.OffersTest">
+        <methods>
+          <include name="Valid_Offer"/>
+          <include name="setExtent"/>
+          <include name="endReport"/>
+          <include name="driverInitialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.redbus.tests.OffersTest -->
+    </classes>
+  </test> <!-- SecondTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

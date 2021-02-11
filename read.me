@@ -1,0 +1,82 @@
+Project Name :REDBUS 
+There are three source folders 
+1.main/java
+2.test/java
+3.main/resources
+
+1.src/main/java :it is contains two package -:
+a. com.redbus.helperutils
+b. com.redbus.pages
+
+a.com.redbus.helperutils: it contains HelperClass.javafile
+
+b.com.redbus.pages: it contains 17 javafiles-
+1#  BusHirePage.java -> finds web elements by locator using pagefactory and contains various methods used in BusHirePageTest.java
+2#  BusSearchPage.java -> finds web elements by locator using pagefactory and contains various methods used in BusSearchTest.java
+3#  CancelHiredBusPage.java ->finds web elements by locator using pagefactory and contains various methods used in CancelHiredBus.java
+4#  CancelTicketBus.java -> finds web elements by locator using pagefactory and contains various methods used in CancelTicketTest.java
+5#  ConviniencePage.java -> finds web elements by locator using pagefactory and contains various methods used in ConvinienceTest.java
+6#  EmailSmsPage.java -> finds web elements by locator using pagefactory and contains various methods used in EmailSmsTest.java
+7#  LoginPage.java -> finds web elements by locator using pagefactory and contains various methods used in LoginTest.java
+8#  OffersPage.java -> finds web elements by locator using pagefactory and contains various methods used in Offerstest.java
+9#  PilgrimagesPage.java -> finds web elements by locator using pagefactory and contains various methods used in PilgrimagesTest.java
+10# PreRegisterPage.java -> finds web elements by locator using pagefactory and contains various methods used in PreRegisterTest.java
+11# ReadGuildlinesPage.java -> finds web elements by locator using pagefactory and contains various methods used in ReadGuidlinesTest.java
+12# RescheduleTicketPage.java -> finds web elements by locator using pagefactory and contains various methods used in RescheduleTicketTest.java
+13# RPoolPage.java -> finds web elements by locator using pagefactory and contains various methods used in RPoolTest.java
+14# ShowMyTicketPage.java -> finds web elements by locator using pagefactory and contains various methods used in ShowMyTicketTest.java
+15# SortByPage.java -> finds web elements by locator using pagefactory and contains various methods used in SortByTest.java
+16# TrackMyBusPage.java -> finds web elements by locator using pagefactory and contains various methods used in TrackMyBusTest.java
+17# AwardPage.java -> finds web elements by locator using pagefactory and contains various methods used in AwardTest.java
+2. src/test/java : it contains 3 packages-:
+a. com.redbus.logging
+b. com.redbus.tests
+c. com.redbus.utils
+
+a. com.redbus.logging : it contains Log4jFile1.java
+
+b. com.redbus.tests : it contains 19 java files:
+
+1# BaseTest.java-> it contains methods that are used in all other java files.
+2# BusHirePageTest.java -> calls methods from BusHirePage.java
+3# BusSearchTest.java ->  calls methods from BusSearchPage.java
+4# CancelHiredBusTest.java -> calls methods from CancelHiredBusPage.java
+5# CancelTicketTest.java -> calls methods from CancelTicketPage.java
+6# ConvinienceTest.java -> calls methods from ConviniencePage.java
+7# EmailSmsTest.java -> calls methods from EmailSmsPage.java
+8# LoginTest.java -> calls methods from LoginPage.java
+9# ModifySearchTest.java -> calls methods from SortByPage.java
+10# OffersTest.java -> calls methods from OffersPage.java
+11# PilgrimagesTest.java -> calls methods from PilgrimagesPage.java
+12# PreRegisterTest.java -> calls methods from PreRgisterPage.java
+13# ReadGuildlinesTest.java -> calls methods from ReadGuildlinesPage.java
+14# RescheduleTicketTest.java -> calls methods from RescheduleTicketPage.java
+15# RPoolTest.java -> calls methods from RPoolpage.java
+16# ShowMyTicketTest.java -> calls methods from ShowMyTicketPage.java
+17# SortByTest.java -> calls methods from SortByPage.java
+18# TrackMyBusTest.java -> calls methods from TrackMyBusPage.java
+19# AwardTest.java -> calls methods from AwardPage.java
+c. com.redbus.utils : it contains 3 java files
+1# ExcelfileIO.java -> it contains the method to read data from excel sheet.
+2# RequiredExecution.java -> it contains the method to check required execution.
+3# ScreenShot.java -> it contains a method to take screenshot.
+
+3. src/main/resources : it contains properties file for log4j.
+# Folder-ExtentReport 
+it contains reports of all the test cases.
+# Folder-FailedTestScreenshots
+it contains screenshots of all the failed cases.
+# Folder-Logs
+log file for log4j is created in this folder.
+# Folder-Resources 
+it contains drivers-
+-> chromedriver.exe
+-> geckodriver.exe
+-> IEDriverServer.exe
+# Folder-utility
+it contains configuration.properties and TestsData.xlsx files.
+
+File - pom.xml -> contains all the dependencies which is required in the project.
+File - testng.xml -> it is use to run all the test cases in a single hit using testng.
+File - docker-compose.yml -> it compose the browser for docker.
+File - run.bat -> it is a batch file for exceute the script at a single click.
